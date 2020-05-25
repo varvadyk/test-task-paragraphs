@@ -1,0 +1,1 @@
+export const    paragraphs=state=>state.post;
