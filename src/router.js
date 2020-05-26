@@ -13,31 +13,31 @@ import Home from './page/Home';
 
 export const routes=[
     {
-      path:'/',
+      path:'/test-task-paragraphs/',
       component:<Home />,
       exact: true
     },
     {
-      path:'/spoke',
+      path:'/test-task-paragraphs/spoke',
       component:<Spoke/>
   },
       {
-        path:'/svydovets',
+        path:'/test-task-paragraphs/svydovets',
         component:<Svydovets/>
     },
     {
-      path:'/ears',
+      path:'/test-task-paragraphs/ears',
       component:<BigEars/>
       
     },  
     {
-      path:'/dzembonya',
+      path:'/test-task-paragraphs/dzembonya',
       component:<Dzembonya/>
 
     },
 
     {
-      path:'/borzhava',
+      path:'/test-task-paragraphs/borzhava',
       component:<Borzhava/>
 
     },
