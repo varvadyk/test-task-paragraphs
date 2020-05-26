@@ -13,7 +13,7 @@ import Home from './page/Home';
 
 export const routes=[
     {
-      path:'/test-task-paragraphs/',
+      path:'/test-task-paragraphs',
       component:<Home />,
       exact: true
     },
